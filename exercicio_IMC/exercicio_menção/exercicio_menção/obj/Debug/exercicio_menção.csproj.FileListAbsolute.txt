@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\exercicios -- 13.03\exercicio_IMC\exercicio_menção\exercicio_menção\bin\Debug\exercicio_menção.exe.config
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\exercicios -- 13.03\exercicio_IMC\exercicio_menção\exercicio_menção\bin\Debug\exercicio_menção.exe
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\exercicios -- 13.03\exercicio_IMC\exercicio_menção\exercicio_menção\bin\Debug\exercicio_menção.pdb
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\exercicios -- 13.03\exercicio_IMC\exercicio_menção\exercicio_menção\obj\Debug\exercicio_menção.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\exercicios -- 13.03\exercicio_IMC\exercicio_menção\exercicio_menção\obj\Debug\exercicio_menção.Form1.resources
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\exercicios -- 13.03\exercicio_IMC\exercicio_menção\exercicio_menção\obj\Debug\exercicio_menção.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\exercicios -- 13.03\exercicio_IMC\exercicio_menção\exercicio_menção\obj\Debug\exercicio_menção.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\exercicios -- 13.03\exercicio_IMC\exercicio_menção\exercicio_menção\obj\Debug\exercicio_menção.exe
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\exercicios -- 13.03\exercicio_IMC\exercicio_menção\exercicio_menção\obj\Debug\exercicio_menção.pdb
