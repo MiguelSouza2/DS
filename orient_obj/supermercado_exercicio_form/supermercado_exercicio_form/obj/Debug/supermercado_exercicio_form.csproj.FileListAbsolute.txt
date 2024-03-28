@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\supermercado_exercicio_form\supermercado_exercicio_form\bin\Debug\supermercado_exercicio_form.exe.config
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\supermercado_exercicio_form\supermercado_exercicio_form\bin\Debug\supermercado_exercicio_form.exe
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\supermercado_exercicio_form\supermercado_exercicio_form\bin\Debug\supermercado_exercicio_form.pdb
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\supermercado_exercicio_form\supermercado_exercicio_form\obj\Debug\supermercado_exercicio_form.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\supermercado_exercicio_form\supermercado_exercicio_form\obj\Debug\supermercado_exercicio_form.Form1.resources
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\supermercado_exercicio_form\supermercado_exercicio_form\obj\Debug\supermercado_exercicio_form.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\supermercado_exercicio_form\supermercado_exercicio_form\obj\Debug\supermercado_exercicio_form.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\supermercado_exercicio_form\supermercado_exercicio_form\obj\Debug\supermercado_exercicio_form.exe
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\supermercado_exercicio_form\supermercado_exercicio_form\obj\Debug\supermercado_exercicio_form.pdb

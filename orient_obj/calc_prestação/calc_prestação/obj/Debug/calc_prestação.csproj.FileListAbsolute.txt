@@ -1,0 +1,8 @@
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\calc_prestação\calc_prestação\bin\Debug\calc_prestação.exe.config
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\calc_prestação\calc_prestação\obj\Debug\calc_prestação.Form1.resources
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\calc_prestação\calc_prestação\obj\Debug\calc_prestação.Properties.Resources.resources
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\calc_prestação\calc_prestação\obj\Debug\calc_prestação.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\calc_prestação\calc_prestação\bin\Debug\calc_prestação.exe
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\calc_prestação\calc_prestação\bin\Debug\calc_prestação.pdb
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\calc_prestação\calc_prestação\obj\Debug\calc_prestação.exe
+C:\Users\ds-etim-2\Desktop\DS\exercícios\windows_forms\orientação_a_objetos\exercicios\calc_prestação\calc_prestação\obj\Debug\calc_prestação.pdb
